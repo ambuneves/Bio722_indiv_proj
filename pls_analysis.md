@@ -369,7 +369,7 @@ head(sort(abs(gene_loadings[,2]), decreasing = TRUE)) #sort the loading vectors 
 | FBgn0043364 | Cabut     | 0.57108801                      | Dpp signaling, dorsal closure, wing disc dorsal/ventral pattern formation                                                                           |
 | FBgn0033033 | Scarface  | 0.57056076                      | Dorsal closure morphogenesis, imaginal disc morphogenesis, germ-band shortening                                                                     |
 | FBgn0041184 | Socs36E   | 0.46552686                      | Border follicle cell migration, cell differentiation, compound eye pigmentation, haltere development, imaginal disc-derived wing vein morphogenesis |
-| FBgn0001297            |           | Kayak                                 | 0.36231903 |DNA binding, DNA-binding transcription factor activity, protein binding 
+| FBgn0001297            |  Kayak         |  0.36231903    | DNA binding, DNA-binding transcription factor activity, protein binding | 
 | FBgn0020493        | Dad      | 0.01812652 |   Imaginal disc-derived wing morphogenesis, morphogenesis of larval imaginal disc epithelium, cell migration, anterior/posterior specification of the imaginal disc|
 
 **Table 3**: Gene ID, gene name, absolute loading vector value, and associated GO terms for the 5 genes with the highest absolute loading vector value from the first component as distinguished by sparse PLS with mixOmics
